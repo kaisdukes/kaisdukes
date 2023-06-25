@@ -25,7 +25,9 @@ Why did I decide to focus on just Java, Python and TypeScript?
 
 The main reason is community support. Compared to the past, programming has become more fragmented and complicated. Gone are the days when you could simply code a program on your computer and share it with friends. These days modern software projects are often a complex mix of highly optimized web and mobile UIs, scalable cloud technologies and Artificial Intelligence. It's almost impossible for a single engineer to keep up with all the latest advances in web and mobile development, the cloud and AI.
 
-I felt my best chance at this was to focus on one popular language in each area to maximize community support, including documentation, coding frameworks, and libraries. This strategy not only provides access to extensive resources but also increases the likelihood of attracting highly-skilled engineers to projects. In the end I settled on:
+I felt my best chance at this was to focus on one popular language in each area to maximize community support, including documentation, coding frameworks, and libraries. This strategy not only provides access to extensive resources but also increases the likelihood of attracting highly-skilled engineers to projects.
+
+In the end I settled on:
 
 * Python for AI. The clear winner in this category, as it's the beloved community favorite.
 * Java for cloud APIs. Not the only possible choice, but the huge Java ecosystem, typesafe libraries and ease of hiring convinced me.
