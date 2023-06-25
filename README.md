@@ -19,7 +19,7 @@ I'm always open to discussing new project ideas! Hit me up on [LinkedIn](https:/
 
 # Why I only focus on three programming languages
 
-There are many truly incredible and amazing programming languages out there, including but not limited to Rust, Clojure, Go, C++, C#, Ruby and Swift.
+There are many truly incredible programming languages out there, including but not limited to Rust, Clojure, Go, C++, C#, Ruby and Swift.
 
 Why did I decide to focus on just Java, Python and TypeScript?
 
