@@ -21,7 +21,7 @@ I'm always open to discussing new project ideas! Hit me up on [LinkedIn](https:/
 
 There are many truly incredible programming languages out there, including but not limited to Rust, Clojure, Go, C++, C#, Ruby and Swift.
 
-Why did I decide to focus on just Java, Python and TypeScript?
+Why did I decide to focus on just Python, Java and TypeScript?
 
 The main reason is community support. Compared to the past, programming has become more fragmented and complicated. Gone are the days when you could simply code a program on your computer and share it with friends. These days modern software projects are often a complex mix of highly optimized web and mobile UIs, scalable cloud technologies and Artificial Intelligence. It's almost impossible for a single engineer to keep up with all the latest advances in web and mobile development, the cloud and AI.
 
