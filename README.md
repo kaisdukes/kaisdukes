@@ -2,13 +2,13 @@ Hey there! 👋
 
 I'm [Dr. Kais Dukes](https://github.com/kaisdukes). At heart, I'm a mathematician. Professionally, I split my time between Engineering Management (CTO-level roles), hands-on software development (full stack: Java/Python/TypeScript), and my favorite activity of all: AI research.
 
-![](https://github.com/kaisdukes/kaisdukes/blob/main/coding.gif)
-
 Here are some cool things I've done in the AI and tech world that I'm proud of:
 
 * As Head of Engineering, I helped grow the double Unicorn startup Zilch from a tech team of 5 to 50.
 * Using AI, built the [Quranic Arabic Corpus](https://corpus.quran.com), the world's most visited site for learning Classical Arabic online.
 * Currently Chief Product and Technology Officer (CPTO) at [Hunna Technology](https://hunna.app), using advanced AI for medical diagnosis and early prevention of diseases through medical screening (preventive medicine using AI).
+
+![](https://github.com/kaisdukes/kaisdukes/blob/main/coding.gif)
 
 # Want to get in touch?
 
