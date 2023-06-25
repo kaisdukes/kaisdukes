@@ -11,11 +11,11 @@ Here are some cool things I've done in the AI and tech worlds that I'm proud of:
 * Won two awards for my AI research into computational linguistics: PhD Thesis Research Excellence Award and Postgraduate Researcher of the Year.
 * Close to almost [1000 research citations](https://scholar.google.co.uk/citations?user=wmRDl-4AAAAJ), where other projects have built on my AI research.
 
-![](https://github.com/kaisdukes/kaisdukes/blob/main/coding.gif)
-
 # Want to get in touch?
 
 I'm always open to discussing new project ideas! Hit me up on [LinkedIn](https://www.linkedin.com/in/kaisdukes).
+
+![](https://github.com/kaisdukes/kaisdukes/blob/main/coding.gif)
 
 # Why I only focus on three programming languages
 
