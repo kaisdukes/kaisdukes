@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm [Dr. Kais Dukes](https://github.com/kaisdukes). At heart, I'm a mathematician. Professionally, I split my time between Engineering Management (CTO-level roles), hands-on software development (full stack: Python/Java/TypeScript), and my favorite activity of all: AI research.
+I'm [Dr. Kais Dukes](https://github.com/kaisdukes). At heart, I'm a mathematician. Professionally, I split my time between engineering management (CTO-level roles), hands-on software development (full stack: Python/Java/TypeScript), and my favorite activity of all: AI research.
 
 Here are some cool things I've done in the AI and tech worlds that I'm proud of:
 
