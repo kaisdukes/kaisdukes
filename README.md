@@ -8,6 +8,8 @@ Here are some cool things I've done in the AI and tech worlds that I'm proud of:
 * Using AI and strong community collaboration, I built the [Quranic Arabic Corpus](https://corpus.quran.com), the world's most visited site for learning Classical Arabic online.
 * Over 20 years, had leading positions building high-frequency algorithmic trading systems at investment banks, hedge funds, the London Stock Exchange and FX and cryptocurrency exchanges.
 * Currently Chief Product and Technology Officer (CPTO) at [Hunna Technology](https://hunna.app), using advanced AI for medical diagnosis and early prevention of diseases through medical screening (preventive medicine using AI).
+* Won two awards for my PhD AI thesis into computional linguistics: PhD Thesis Research Excellence Award and Postgraduate Researcher of the Year.
+* Close to almost 1000 research citations, where other projects have built on my AI research.
 
 ![](https://github.com/kaisdukes/kaisdukes/blob/main/coding.gif)
 
@@ -21,7 +23,7 @@ There are many truly incredible and amazing programming languages out there, inc
 
 Why did I decide to focus on just Java, Python and TypeScript?
 
-The main reason is community support. Compared to the past, programming has become more fragmented and complicated. Gone are the days when you could simply code a program on your computer and share it with friends. These days modern software projects are often a complex mix of highly optimized web and mobile UIs, scalable cloud technologies and now AI. It's almost impossible for a single engineer to keep up with all the latest advances in web and mobile development, the cloud and AI.
+The main reason is community support. Compared to the past, programming has become more fragmented and complicated. Gone are the days when you could simply code a program on your computer and share it with friends. These days modern software projects are often a complex mix of highly optimized web and mobile UIs, scalable cloud technologies and Artificial Intelligence. It's almost impossible for a single engineer to keep up with all the latest advances in web and mobile development, the cloud and AI.
 
 I felt my best chance at this was choosing one solid language in each area, and picking the language most widely adopted to ensure the most support from the community in terms of documentation, coding frameworks and libraries, and and attracting highly-skilled engineers to projects. In the end I settled on:
 
