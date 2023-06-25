@@ -12,7 +12,7 @@ Here are some cool things I've done in the AI and tech world that I'm proud of:
 
 # Want to get in touch?
 
-I'm always open to discussing new project ideas! Hit me up on [LinkedIn](https://www.linkedin.com/in/kaisdukes)
+I'm always open to discussing new project ideas! Hit me up on [LinkedIn](https://www.linkedin.com/in/kaisdukes).
 
 # Why I only focus on three programming languages
 
