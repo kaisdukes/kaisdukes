@@ -31,4 +31,4 @@ In the end I settled on:
 
 * Python for AI. The clear winner in this category, as it's the beloved community favorite.
 * Java for cloud APIs. Not the only possible choice, but the huge Java ecosystem, typesafe libraries and ease of hiring convinced me.
-* TypeScript + React/React Native for modern high-performant web and mobile frontends. There are many other options for frontend technology, but the combination of TypeScript with React ensures type safety (essential on larger projects) and access to a huge ecosystem with strong community support.
+* TypeScript + React/React Native for modern high-performance web and mobile frontends. There are many other options for frontend technology, but the combination of TypeScript with React ensures type safety (essential on larger projects) and access to a huge ecosystem with strong community support.
