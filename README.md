@@ -9,7 +9,7 @@ Here are some cool things I've done in the AI and tech worlds that I'm proud of:
 * Over 20 years, I've had leading positions building high-frequency algorithmic trading systems at investment banks, hedge funds, the London Stock Exchange and FX and cryptocurrency exchanges.
 * Currently Chief Product and Technology Officer (CPTO) at [Hunna Technology](https://hunna.app), using advanced AI for medical diagnosis and early prevention of diseases through medical screening (preventive medicine using AI).
 * Won two awards for my AI research into computational linguistics: PhD Thesis Research Excellence Award and Postgraduate Researcher of the Year.
-* Close to almost 1000 research citations, where other projects have built on my AI research.
+* Close to almost [1000 research citations](https://scholar.google.co.uk/citations?user=wmRDl-4AAAAJ), where other projects have built on my AI research.
 
 ![](https://github.com/kaisdukes/kaisdukes/blob/main/coding.gif)
 
