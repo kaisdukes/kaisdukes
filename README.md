@@ -2,7 +2,7 @@ Hey there! 👋
 
 I'm [Dr. Kais Dukes](https://github.com/kaisdukes). At heart, I'm a mathematician. Professionally, I split my time between Engineering Management (CTO-level roles), hands-on software development (full stack: Java/Python/TypeScript), and my favorite activity of all: AI research.
 
-<img align="right" alt="GIF" src="https://github.com/kaisdukes/kaisdukes/blob/main/coding.gif?raw=true" width="500" height="320" />
+![](https://github.com/kaisdukes/kaisdukes/blob/main/coding.gif)
 
 Here are some cool things I've done in the AI and tech world that I'm proud of:
 
