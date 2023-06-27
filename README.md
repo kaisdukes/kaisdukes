@@ -32,7 +32,7 @@ There are many truly incredible programming languages out there, including but n
 
 Why did I decide to focus on just Python, Java and TypeScript?
 
-The main reason is community support. Compared to the past, programming has become more fragmented and complicated. Gone are the days when you could simply code a program on your computer and share it with friends. These days modern software projects are often a complex mix of highly optimized web and mobile UIs, scalable cloud technologies and Artificial Intelligence. It's almost impossible for a single engineer to keep up with all the latest advances in web and mobile development, the cloud and AI.
+The main reason is community support. Compared to the past, programming has become more fragmented and complicated. Gone are the days when you could simply code a program on your computer and share it with friends. These days modern software projects are often a complex mix of highly optimized web and mobile UIs, scalable cloud technologies and artificial intelligence. It's almost impossible for a single engineer to keep up with all the latest advances in web and mobile development, the cloud and AI.
 
 I felt my best chance at this was to focus on one popular language in each area to maximize community support, including documentation, coding frameworks, and libraries. This strategy not only provides access to extensive resources but also increases the likelihood of attracting highly-skilled engineers to projects.
 
