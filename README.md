@@ -15,7 +15,7 @@ Here are some cool things I've done in the AI and tech worlds that I'm proud of:
 
 # Neurons!
 
-A couple of educational articles I've written recently on the history of the math behind neural networks:
+Here are a couple of educational articles I've written recently on the history of the math behind neural networks:
 
 * [McCulloch-Pitts: The First Computational Neuron](https://github.com/kaisdukes/mcculloch-pitts-neuron)
 * [The History of Neural Networks Part 2: Rosenblatt's Perceptron](https://github.com/kaisdukes/rosenblatt-perceptron)
