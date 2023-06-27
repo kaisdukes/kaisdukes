@@ -11,6 +11,13 @@ Here are some cool things I've done in the AI and tech worlds that I'm proud of:
 * Won two awards for my AI research into computational linguistics: PhD Thesis Research Excellence Award and Postgraduate Researcher of the Year.
 * Close to almost [1000 research citations](https://scholar.google.co.uk/citations?user=wmRDl-4AAAAJ), where other projects have built on my AI research.
 
+# Neurons!
+
+A couple of educational articles I've written recently on the history of the math behind neural networks:
+
+* [McCulloch-Pitts: The First Computational Neuron](https://github.com/kaisdukes/mcculloch-pitts-neuron)
+* [The History of Neural Networks Part 2: Rosenblatt's Perceptron](https://github.com/kaisdukes/rosenblatt-perceptron)
+
 # Want to get in touch?
 
 I'm always open to discussing new project ideas! Hit me up on [LinkedIn](https://www.linkedin.com/in/kaisdukes).
